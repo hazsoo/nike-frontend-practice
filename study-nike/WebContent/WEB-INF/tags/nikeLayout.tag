@@ -606,14 +606,5 @@ span.pw {
 		</div>
 	</form>
 </div>
-<!-- <script> -->
-// var modal = document.getElementById('login');
-// window.onclick=function(event){
-// 	if(event.target==modal){
-// 		modal.style.display="none;"
-		
-// 	}
-// }
-<!-- </script> -->
 </body>
 </html>
